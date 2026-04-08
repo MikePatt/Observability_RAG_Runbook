@@ -8,7 +8,7 @@ Production-style Observability Runbook RAG Assistant for interview portfolios.
 - FastAPI API with request ID middleware and structured error handling
 - Prometheus metrics endpoint (`/metrics`)
 - Query timeout guard for reliability
-- Dockerized runtime and GitHub Actions CI
+- Dockerized runtime
 - Test suite for health/query behavior
 - Architecture, deployment, operations, and decisions docs
 
